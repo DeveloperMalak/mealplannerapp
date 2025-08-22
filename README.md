@@ -17,6 +17,24 @@ It also supports **admin and user roles** for recipe management.
 - 🔗 **Custom Backend (Node.js)** – All data is fetched and managed via custom APIs.  
 
 ---
+## Here are some screenshots of the app:
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/sceenshots/home.jpg" alt="Home" width="120"/>
+  <img src="assets/sceenshots/recipes.jpg" alt="Recipes" width="120"/>
+  <img src="assets/sceenshots/mealschedule.jpg" alt="Meal Schedule" width="120"/>
+  <img src="assets/sceenshots/editmeanform.jpg" alt="Edit Meal Form" width="120"/>
+  <img src="assets/sceenshots/timepicker.jpg" alt="Time Picker" width="120"/>
+  <img src="assets/sceenshots/profiles.jpg" alt="Profile" width="120"/>
+  <img src="assets/sceenshots/myprofile.jpg" alt="My Profile" width="120"/>
+</p>
+
+
+
+
+
 
 ## 🛠️ Tech Stack
 
